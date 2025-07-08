@@ -8,3 +8,4 @@ Notes and usage details for leptos-shadcn-ui.
 - link the usage section
 - add a note about the defaults
 - clarify the setup steps
+- add a note about the defaults
